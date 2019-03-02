@@ -1,4 +1,4 @@
-1. Name: ### Siarhei Mitasau
+1. Name: Siarhei Mitasau
 2. Mobile: 80445951119(velc) <br>
    Email:darkenrahl1893@gmail.com
 3. Summary: I am active, positive and non-conflict person, with good communication skills. Also i am fast-learner and can master new technologies really quickly. My main points for now - is enter to IT sphere, improve my programming and english skills and became a strong middle developer.
