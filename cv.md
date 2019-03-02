@@ -20,6 +20,6 @@ function getLoveTrianglesCount(preferences = []) {
   return parseInt(lovers / 3);
 }
 ```
-6. Experience: You can see some of my works on me personal page: http://sergmit.ru/ (HTML,CSS), examples of my code you can see on my github profile(i wrote it above this item).
+6. Experience: You can see some of my works on me personal page: [Here is my personal page and it looks disgusting, i know :)](http://sergmit.ru/), examples of my code you can see on my github profile(i wrote it above this item).
 7. Education: Belarusian State University of Informatics and Radioelectronics(completed in 2016).
 8. English level: B1(based on online tests), i had experience with english in school(5-11 classes) also i read some books in original and watched a few serials("Breaking bad", "Chilling adventures of Sabrina", "Scrubs") with subtitles. I dont have enough experience in spoken english, but I will fix it in a few month(I hope so :) ).
