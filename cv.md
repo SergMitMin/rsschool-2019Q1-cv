@@ -5,7 +5,7 @@
 4. Skills: JS(ES5,ES6), jQuery, git, HTML5, CSS3, Less, Sass, Bootstrap(3-4), Photoshop, Webpack.
 5. Code examples: https://github.com/SergMitMin - here, you can see examples of my code (some of repos are really old and couldn't show my current level of programming). Now I studuing at The Rolling Scopes JS courses.
 
-```
+```javascript
 function getLoveTrianglesCount(preferences = []) {
   // your implementation
   let lovers = 0;
@@ -19,7 +19,7 @@ function getLoveTrianglesCount(preferences = []) {
     }
   }
   return parseInt(lovers / 3);
-};
+}
 ```
 
 6. Experience: You can see some of my works on me personal page: http://sergmit.ru/ (HTML,CSS), examples of my code you can see on my github profile(i wrote it above this item).
